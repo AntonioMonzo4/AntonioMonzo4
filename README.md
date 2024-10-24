@@ -1,7 +1,14 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio Monzó
+=====================================================================================================================================
 
+Full-Stack Developer
+--------------------
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Tono42) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amonzo42) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-monzó-9597b0256) 
+I am a full stack web developer with a solid background in Web Application Development (DAW) and proven experience as an independent developer. I have a comprehensive command of creating and maintaining applications and websites, covering both front-end and back-end development. I specialize in modern technologies such as HTML, CSS, and JavaScript, ensuring optimized user experiences and visually appealing designs. I am driven by the pursuit of innovative solutions and continuous improvement, always staying updated with the latest trends to deliver high-quality and efficient web products.
+
+* 🌍  I'm based in Madrid
+* ✉️  You can contact me at [amonansu@gmail.com](mailto:amonansu@gmail.com)
+
 
 
 ## 🌐 Socials:
@@ -18,9 +25,12 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AntonioMonzo4&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=AntonioMonzo4&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AntonioMonzo4&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMonzo4&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AntonioMonzo4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
