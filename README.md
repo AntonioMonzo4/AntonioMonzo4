@@ -8,6 +8,8 @@ I am a full stack web developer with a solid background in Web Application Devel
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [amonansu@gmail.com](mailto:amonansu@gmail.com)
+* * ✉️  You can contact me at [web.antoniom@gmail.com](mailto:web.antoniom@gmail.com)
+
 
 
 
