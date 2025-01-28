@@ -4,7 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I am a full stack web developer with a solid background in Web Application Development (DAW) and proven experience as an independent developer. I have a comprehensive command of creating and maintaining applications and websites, covering both front-end and back-end development. I specialize in modern technologies such as HTML, CSS, and JavaScript, ensuring optimized user experiences and visually appealing designs. I am driven by the pursuit of innovative solutions and continuous improvement, always staying updated with the latest trends to deliver high-quality and efficient web products.
+Here is the translation of your text into English:  
+
+---
+
+I am a student of the Advanced Vocational Training Program in Web Application Development at IES Juan de Herrera, with graduation expected in May 2025. Since April 2022, I have been working as a freelance Web Developer, designing and creating customized solutions that combine functionality, attractive design, and optimal performance. Throughout this experience, I have learned to adapt to the specific needs of each client, developing projects from scratch and delivering results that exceed expectations.  
+
+My technical skills include advanced proficiency in **HTML, CSS, and JavaScript**, along with solid experience in **PHP, Bootstrap, Java**, and databases such as **MySQL**. I specialize in the end-to-end development of websites, covering both the visual aspects and the implementation of efficient and secure systems. I am constantly exploring new technological horizons, with a particular interest in emerging fields such as **artificial intelligence**, **robotics**, and **3D printing**—areas that inspire my creativity and motivate my pursuit of innovative solutions.  
+
+In my recent professional experience, I had the opportunity to collaborate at BJDRONES, where I not only developed customized websites but also worked directly with clients to understand their needs and transform their ideas into real solutions. This experience strengthened my ability to communicate clearly, anticipate potential problems, and manage projects with a structured, results-oriented approach. I firmly believe in the value of empathy and collaboration, qualities that enable me to integrate seamlessly into diverse teams and contribute with a positive and constructive perspective.  
+
+I am a curious individual, deeply committed to continuous learning, which drives me to stay up to date with the latest technologies and industry trends. At the same time, I take pride in my ability to remain organized and prioritize tasks in demanding environments, always focused on achieving team and project goals. My approach blends technical expertise, creativity, and a proactive vision that seeks to go beyond the conventional.  
+
+With these skills and an attitude geared toward constant growth, I am ready to add value to challenging projects and contribute to achieving the goals of an organization that shares my passion for technology and innovation.  
+
+--- 
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [amonansu@gmail.com](mailto:amonansu@gmail.com)
