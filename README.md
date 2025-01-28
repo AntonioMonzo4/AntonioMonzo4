@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-Here is the translation of your text into English:  
-
----
-
 I am a student of the Advanced Vocational Training Program in Web Application Development at IES Juan de Herrera, with graduation expected in May 2025. Since April 2022, I have been working as a freelance Web Developer, designing and creating customized solutions that combine functionality, attractive design, and optimal performance. Throughout this experience, I have learned to adapt to the specific needs of each client, developing projects from scratch and delivering results that exceed expectations.  
 
 My technical skills include advanced proficiency in **HTML, CSS, and JavaScript**, along with solid experience in **PHP, Bootstrap, Java**, and databases such as **MySQL**. I specialize in the end-to-end development of websites, covering both the visual aspects and the implementation of efficient and secure systems. I am constantly exploring new technological horizons, with a particular interest in emerging fields such as **artificial intelligence**, **robotics**, and **3D printing**—areas that inspire my creativity and motivate my pursuit of innovative solutions.  
